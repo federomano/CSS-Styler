@@ -24,6 +24,7 @@ body div.someClass a:first-child {
 
 }
 ```
+Example: http://codepen.io/federomano/pen/fjmab
 
 Beta
 ==========
